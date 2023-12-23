@@ -1,0 +1,74 @@
+GIMP Palette
+Name: queerflags
+Columns: 7
+#
+ 91 206 250	Trans 1
+245 169 184	Trans 2
+255 255 255	Trans 3
+245 169 184	Trans 4
+ 91 206 250	Trans 5
+  0   0   0	spacer
+  0   0   0	spacer
+252 244  52	Nonbinary 1
+255 255 255	Nonbinary 2
+156  89 209	Nonbinary 3
+ 44  44  44	Nonbinary 4
+  0   0   0	spacer
+  0   0   0	spacer
+  0   0   0	spacer
+255 138 189	Transmasc 1
+205 245 254	Transmasc 2
+154 235 255	Transmasc 3
+116 223 255	Transmasc 4
+154 235 255	Transmasc 5
+205 245 254	Transmasc 6
+255 138 189	Transmasc 7
+253  28  36	LGBT 1
+253 147  29	LGBT 2
+253 253   0	LGBT 3
+  4 187   0	LGBT 4
+  0  23 151	LGBT 5
+118   0 136	LGBT 6
+  0   0   0	spacer
+205  43   0	Lesbian 1
+245 147  82	Lesbian 2
+247 247 247	Lesbian 3
+202  94 157	Lesbian 4
+157   1  94	Lesbian 5
+  0   0   0	spacer
+  0   0   0	spacer
+ 76 137 113	Gay men 1
+116 202 171	Gay men 2
+177 229 195	Gay men 3
+255 255 254	Gay men 4
+140 170 222	Gay men 5
+ 85  76 193	Gay men 6
+ 60  32 116	Gay men 7
+214   2 112	Bi 1
+155  79 150	Bi 2
+  0  56 168	Bi 3
+  0   0   0	spacer
+  0   0   0	spacer
+  0   0   0	spacer
+  0   0   0	spacer
+  0   0   0	Asexual 1
+163 163 163	 Asexual 2
+255 255 255	 Asexual 3
+128   0 128	 Asexual 4
+  0   0   0	spacer
+  0   0   0	spacer
+  0   0   0	spacer
+255 118 164	Genderfluid 1
+255 255 255	Genderfluid 2
+192  17 215	Genderfluid 3
+  0   0   0	Genderfluid 4
+  0   0   0	spacer
+  0   0   0	spacer
+  0   0   0	spacer
+214  44   0	Butch 1
+240 117  40	Butch 2
+255 155  87	Butch 3
+255 252 238	Butch 4
+255 205 136	Butch 5
+255 172   8	Butch 6
+161 111   0	Butch 7
